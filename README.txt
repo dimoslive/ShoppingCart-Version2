@@ -1,0 +1,1 @@
+This is a simple Shopping cart application. It is based on javabean and jstl. To run it on netbeans you must include the jstl library from netbeans. In my code there are two links. The on redirects you to my report in wordpress and the other redirects you to my dropbox folder from where you can download the code.
